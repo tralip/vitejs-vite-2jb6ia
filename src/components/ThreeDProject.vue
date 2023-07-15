@@ -16,6 +16,7 @@ const count = ref(0)
   </div> -->
 
   <p>+-- Fin ThreeDProject.vue</p>
+  <p>====>  Ca ne marche pas à cause de l'environnemeent, je bascule sur Thresjs projetct</p>
 
 </template>
 

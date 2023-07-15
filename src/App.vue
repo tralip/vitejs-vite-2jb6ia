@@ -1,16 +1,23 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
+import TheExperience from './components/TheExperience.vue'
 import ThreeDProject from './components/ThreeDProject.vue'
+
 </script>
 
 <template>
   <div>
     <p>zone pour ThreeDProject.vue composant</p>
     <p>+- Début dans App.vue</p>
-      <ThreeDProject msg="Titre composant" />
+      <ThreeDProject msg="(Vite/Vue/TS) TresJS" />
     <p>+- Fin dans App.vue</p>
-    <p>(la suite est la démo de départ)</p>
+    
   </div>
+  <div>
+   <p>zone pour TheExperience.vue</p>
+   <TheExperience/>
+  </div>
+  <p>(la suite est la démo de départ)</p>
  <!-- <div>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
