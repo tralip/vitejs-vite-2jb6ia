@@ -10,10 +10,10 @@ const count = ref(0)
   <p>+-- Début ThreeDProject.vue</p>
   <h1>{{ msg }}</h1>
 
-  <div class="card">
+ <!-- <div class="card">
     <button type="button" @click="count++">count is {{ count }}</button>
 
-  </div>
+  </div> -->
 
   <p>+-- Fin ThreeDProject.vue</p>
 

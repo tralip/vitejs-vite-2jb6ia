@@ -11,7 +11,7 @@ import ThreeDProject from './components/ThreeDProject.vue'
     <p>+- Fin dans App.vue</p>
     <p>(la suite est la démo de départ)</p>
   </div>
-  <div>
+ <!-- <div>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
@@ -19,7 +19,7 @@ import ThreeDProject from './components/ThreeDProject.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Vite + Vue" /> -->
 </template>
 
 <style scoped>
